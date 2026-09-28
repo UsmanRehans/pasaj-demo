@@ -1,0 +1,429 @@
+{
+  "source": "https://www.pasajstudio.com",
+  "audited_at": "2026-09-21",
+  "coverage": "All public sitemap locations plus same-origin homepage links and search form. Routes hidden from both sources may exist.",
+  "counts": {
+    "discovery": 1,
+    "home": 1,
+    "product": 14,
+    "page": 7,
+    "collection": 9,
+    "blog": 1,
+    "blog_article": 7,
+    "collection_index": 2,
+    "commerce": 2,
+    "policy": 3,
+    "search": 1
+  },
+  "routes": [
+    {
+      "path": "/",
+      "url": "https://www.pasajstudio.com/",
+      "kind": "home",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/agents.md",
+      "url": "https://www.pasajstudio.com/agents.md",
+      "kind": "discovery",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter",
+      "kind": "blog",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/a-guide-to-fragrance",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/a-guide-to-fragrance",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/duro-by-nasomatto-fragrance-review-a-captivating-blend-of-charm-and-allure",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/duro-by-nasomatto-fragrance-review-a-captivating-blend-of-charm-and-allure",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/five-fall-candles-to-create-a-welcoming-ambiance",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/five-fall-candles-to-create-a-welcoming-ambiance",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/five-fragrances-to-wear-late-in-the-summer",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/five-fragrances-to-wear-late-in-the-summer",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/from-page-to-perfume-the-art-of-literary-scent",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/from-page-to-perfume-the-art-of-literary-scent",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/gloam-a-fragrance-of-transition-by-aesop",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/gloam-a-fragrance-of-transition-by-aesop",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/blogs/the-parfum-counter/harmonious-perfume-deuts",
+      "url": "https://www.pasajstudio.com/blogs/the-parfum-counter/harmonious-perfume-deuts",
+      "kind": "blog_article",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/cart",
+      "url": "https://www.pasajstudio.com/cart",
+      "kind": "commerce",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/collections",
+      "url": "https://www.pasajstudio.com/collections",
+      "kind": "collection_index",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/collections/all",
+      "url": "https://www.pasajstudio.com/collections/all",
+      "kind": "collection_index",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/collections/body",
+      "url": "https://www.pasajstudio.com/collections/body",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/curated-selection",
+      "url": "https://www.pasajstudio.com/collections/curated-selection",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/face",
+      "url": "https://www.pasajstudio.com/collections/face",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/gifts-for-him-1",
+      "url": "https://www.pasajstudio.com/collections/gifts-for-him-1",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/hair",
+      "url": "https://www.pasajstudio.com/collections/hair",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/mothers-day",
+      "url": "https://www.pasajstudio.com/collections/mothers-day",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/perfume-oil",
+      "url": "https://www.pasajstudio.com/collections/perfume-oil",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/perfumed-candles",
+      "url": "https://www.pasajstudio.com/collections/perfumed-candles",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/collections/skincare",
+      "url": "https://www.pasajstudio.com/collections/skincare",
+      "kind": "collection",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/customer_authentication/redirect",
+      "url": "https://www.pasajstudio.com/customer_authentication/redirect",
+      "kind": "commerce",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/pages/about-new",
+      "url": "https://www.pasajstudio.com/pages/about-new",
+      "kind": "page",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/ccpa-opt-out",
+      "url": "https://www.pasajstudio.com/pages/ccpa-opt-out",
+      "kind": "page",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/climate-commitment",
+      "url": "https://www.pasajstudio.com/pages/climate-commitment",
+      "kind": "page",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/collaborations",
+      "url": "https://www.pasajstudio.com/pages/collaborations",
+      "kind": "page",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/contact-us",
+      "url": "https://www.pasajstudio.com/pages/contact-us",
+      "kind": "page",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/materials-in-progress",
+      "url": "https://www.pasajstudio.com/pages/materials-in-progress",
+      "kind": "page",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/pages/subscription_form",
+      "url": "https://www.pasajstudio.com/pages/subscription_form",
+      "kind": "page",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/policies/privacy-policy",
+      "url": "https://www.pasajstudio.com/policies/privacy-policy",
+      "kind": "policy",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/policies/refund-policy",
+      "url": "https://www.pasajstudio.com/policies/refund-policy",
+      "kind": "policy",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/policies/terms-of-service",
+      "url": "https://www.pasajstudio.com/policies/terms-of-service",
+      "kind": "policy",
+      "sources": [
+        "homepage"
+      ]
+    },
+    {
+      "path": "/products/ambra-body-oil",
+      "url": "https://www.pasajstudio.com/products/ambra-body-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/conditioning-beard-oil",
+      "url": "https://www.pasajstudio.com/products/conditioning-beard-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/figleef",
+      "url": "https://www.pasajstudio.com/products/figleef",
+      "kind": "product",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/gardenya",
+      "url": "https://www.pasajstudio.com/products/gardenya",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/jasmine-natural-perfume-oil",
+      "url": "https://www.pasajstudio.com/products/jasmine-natural-perfume-oil",
+      "kind": "product",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/nerole",
+      "url": "https://www.pasajstudio.com/products/nerole",
+      "kind": "product",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/nourishing-natural-face-oil",
+      "url": "https://www.pasajstudio.com/products/nourishing-natural-face-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/oud",
+      "url": "https://www.pasajstudio.com/products/oud",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/regenerating-night-face-serum",
+      "url": "https://www.pasajstudio.com/products/regenerating-night-face-serum",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/rose-ottoman-natural-perfume-oil",
+      "url": "https://www.pasajstudio.com/products/rose-ottoman-natural-perfume-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/scalp-hair-oil",
+      "url": "https://www.pasajstudio.com/products/scalp-hair-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/sendahl-body-oil",
+      "url": "https://www.pasajstudio.com/products/sendahl-body-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/tobacco-natural-perfume-oil",
+      "url": "https://www.pasajstudio.com/products/tobacco-natural-perfume-oil",
+      "kind": "product",
+      "sources": [
+        "homepage",
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/products/wood-natural-perfume-oil",
+      "url": "https://www.pasajstudio.com/products/wood-natural-perfume-oil",
+      "kind": "product",
+      "sources": [
+        "sitemap"
+      ]
+    },
+    {
+      "path": "/search",
+      "url": "https://www.pasajstudio.com/search",
+      "kind": "search",
+      "sources": [
+        "homepage_form"
+      ]
+    }
+  ]
+}

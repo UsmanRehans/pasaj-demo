@@ -1,0 +1,11 @@
+{
+  "name": "pasaj-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/verify.mjs",
+    "capture": "python3 scripts/capture.py",
+    "check": "node scripts/verify.mjs"
+  }
+}

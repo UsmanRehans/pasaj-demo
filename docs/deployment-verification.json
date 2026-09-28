@@ -1,0 +1,186 @@
+{
+  "url": "https://pasaj-demo.vercel.app",
+  "date": "2026-09-21",
+  "routes": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/a-guide-to-fragrance",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/duro-by-nasomatto-fragrance-review-a-captivating-blend-of-charm-and-allure",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/five-fall-candles-to-create-a-welcoming-ambiance",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/five-fragrances-to-wear-late-in-the-summer",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/from-page-to-perfume-the-art-of-literary-scent",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/gloam-a-fragrance-of-transition-by-aesop",
+      "status": 200
+    },
+    {
+      "path": "/blogs/the-parfum-counter/harmonious-perfume-deuts",
+      "status": 200
+    },
+    {
+      "path": "/collections",
+      "status": 200
+    },
+    {
+      "path": "/collections/all",
+      "status": 200
+    },
+    {
+      "path": "/collections/body",
+      "status": 200
+    },
+    {
+      "path": "/collections/curated-selection",
+      "status": 200
+    },
+    {
+      "path": "/collections/face",
+      "status": 200
+    },
+    {
+      "path": "/collections/gifts-for-him-1",
+      "status": 200
+    },
+    {
+      "path": "/collections/hair",
+      "status": 200
+    },
+    {
+      "path": "/collections/mothers-day",
+      "status": 200
+    },
+    {
+      "path": "/collections/perfume-oil",
+      "status": 200
+    },
+    {
+      "path": "/collections/perfumed-candles",
+      "status": 200
+    },
+    {
+      "path": "/collections/skincare",
+      "status": 200
+    },
+    {
+      "path": "/pages/about-new",
+      "status": 200
+    },
+    {
+      "path": "/pages/ccpa-opt-out",
+      "status": 200
+    },
+    {
+      "path": "/pages/climate-commitment",
+      "status": 200
+    },
+    {
+      "path": "/pages/collaborations",
+      "status": 200
+    },
+    {
+      "path": "/pages/contact-us",
+      "status": 200
+    },
+    {
+      "path": "/pages/materials-in-progress",
+      "status": 200
+    },
+    {
+      "path": "/pages/subscription_form",
+      "status": 200
+    },
+    {
+      "path": "/policies/privacy-policy",
+      "status": 200
+    },
+    {
+      "path": "/policies/refund-policy",
+      "status": 200
+    },
+    {
+      "path": "/policies/terms-of-service",
+      "status": 200
+    },
+    {
+      "path": "/products/ambra-body-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/conditioning-beard-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/figleef",
+      "status": 200
+    },
+    {
+      "path": "/products/gardenya",
+      "status": 200
+    },
+    {
+      "path": "/products/jasmine-natural-perfume-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/nerole",
+      "status": 200
+    },
+    {
+      "path": "/products/nourishing-natural-face-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/oud",
+      "status": 200
+    },
+    {
+      "path": "/products/regenerating-night-face-serum",
+      "status": 200
+    },
+    {
+      "path": "/products/rose-ottoman-natural-perfume-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/scalp-hair-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/sendahl-body-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/tobacco-natural-perfume-oil",
+      "status": 200
+    },
+    {
+      "path": "/products/wood-natural-perfume-oil",
+      "status": 200
+    },
+    {
+      "path": "/search",
+      "status": 200
+    }
+  ]
+}

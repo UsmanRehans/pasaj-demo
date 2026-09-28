@@ -1,0 +1,9 @@
+{
+  "source": "https://www.pasajstudio.com/",
+  "observedAt": "2026-09-21",
+  "colors": {"background": "#FFFFFF", "foreground": "#000000", "inverse": "#FCFCFC"},
+  "typography": {"family": "SF Mono, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace"},
+  "radii": {"control": "0px"},
+  "layout": {"desktopReferenceWidth": 1280, "desktopContentWidth": 1155, "mobileGutter": 15.75},
+  "authority": "User-requested replica of incumbent website; no new visual world"
+}

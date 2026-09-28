@@ -1,0 +1,443 @@
+.shopify-planet-banner-v2-container:not(.shopify-planet-banner-v2-initialized) {
+  opacity: 0;
+}
+
+.shopify-planet-banner-v2-container.shopify-planet-banner-v2-initialized.shopify-planet-banner-v2-fetching-price {
+  opacity: 0;
+}
+
+.shopify-planet-banner-v2-container {
+  display: flex;
+  justify-content: center;
+}
+
+.shopify-planet-banner-v2 {
+  display: flex;
+  border: 1px solid;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    San Francisco,
+    Segoe UI,
+    Roboto,
+    Helvetica Neue,
+    sans-serif;
+  letter-spacing: 0;
+  align-items: stretch;
+}
+
+.shopify-planet-banner-v2-container .shopify-planet-banner-v2 .shopify-planet-banner-v2-logo {
+  width: 34px;
+  height: 30px;
+}
+
+.shopify-planet-popup-content-container .shopify-planet-popup-content .shopify-planet-modal-info-image-stats {
+  width: 65px;
+  height: 48px;
+}
+
+.shopify-planet-popup-content-container .shopify-planet-popup-content .shopify-planet__header-splash {
+  width: 112px;
+  height: 8px;
+}
+
+.shopify-planet-popup-content-container .shopify-planet-popup-content .shopify-planet-modal-info-image-desert-scape {
+  width: 348px;
+  height: 229px;
+}
+
+.shopify-planet-popup-content-container .shopify-planet-popup-content .shopify-planet-modal-info-image-sequestration-plant {
+  width: 275px;
+  height: 327px;
+}
+
+.shopify-planet-popup-content-container .shopify-planet-popup-content .shopify-planet-modal-info-image-farm-field {
+  width: 311px;
+  height: 294px;
+}
+
+.shopify-planet-banner-v2-product-missing {
+  display: none;
+}
+
+/* Hide the default checkbox */
+.shopify-planet-checkbox input[type='checkbox'] {
+  display: none;
+}
+.shopify-planet-checkbox {
+  height: 18px;
+}
+
+.shopify-planet-checkbox span {
+  position: relative;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border: solid;
+  border-radius: 4px;
+}
+
+.shopify-planet-checkbox.with-logo span {
+  margin-right: 16px;
+}
+
+.shopify-planet-checkbox input[type='checkbox']:checked + span::after {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 0;
+  width: 6px;
+  height: 12px;
+  border: solid;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.shopify-planet-banner-v2 div,
+.shopify-planet-banner-v2 {
+  display: flex;
+}
+
+.shopify-planet-banner-v2-wrap {
+  flex-wrap: wrap;
+}
+
+.shopify-planet-banner-v2-border-spacer {
+  display: none;
+}
+
+div:not(.shopify-planet-banner-v2-border-right)
+  .shopify-planet-banner-v2-border-spacer {
+  width: 1px;
+}
+
+.shopify-planet-banner-v2-project-title {
+  max-width: 80px;
+}
+
+.shopify-planet-banner-v2-emissions-removed {
+  max-width: 100px;
+}
+
+.shopify-planet-banner-v2-miles-driven,
+.shopify-planet-banner-v2-we-fund {
+  max-width: 130px;
+}
+
+.shopify-planet-banner-v2 svg {
+  fill: currentColor;
+}
+
+.shopify-planet-banner-v2-car-illustration {
+  min-width: 32px;
+}
+
+.shopify-planet-banner-v2-border-right {
+  border-right: 1px solid;
+}
+
+.shopify-planet-banner-v2-border-left {
+  border-left: 1px solid;
+}
+
+.shopify-planet-banner-v2-border-top {
+  border-top: 1px solid;
+}
+
+.shopify-planet-banner-v2-border-bottom {
+  border-bottom: 1px solid;
+}
+
+.shopify-planet-banner-v2-row {
+  flex-direction: row;
+  align-items: center;
+}
+
+.shopify-planet-banner-v2-full-height-row {
+  align-items: stretch;
+  flex-direction: row;
+}
+
+.shopify-planet-banner-v2-column {
+  flex-direction: column;
+  align-items: center;
+}
+
+.shopify-planet-banner-v2-no-shrink {
+  flex-shrink: 0;
+}
+
+.shopify-planet-banner-v2-expand {
+  flex-grow: 1;
+}
+
+.shopify-planet-banner-v2-spaced {
+  padding: 16px;
+}
+
+.shopify-planet-banner-v2-spaced-l {
+  padding-left: 16px;
+}
+
+.shopify-planet-banner-v2-spaced-l-half {
+  padding-left: 8px;
+}
+
+.shopify-planet-banner-v2-spaced-r {
+  padding-right: 16px;
+}
+
+.shopify-planet-banner-v2-spaced-r-half {
+  padding-right: 8px;
+}
+
+.shopify-planet-banner-v2-margin-b {
+  margin-bottom: 8px;
+}
+
+.shopify-planet-banner-v2-font-medium.sections-active {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.shopify-planet-banner-v2-font-medium {
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.shopify-planet-banner-v2-font-small {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.shopify-planet-banner-v2-font-x-small {
+  font-size: 8px;
+  line-height: 10px;
+}
+
+.shopify-planet-banner-v2-font-large {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.shopify-planet-banner-v2-text-center {
+  text-align: center;
+}
+
+.shopify-planet-banner-v2-justify-center {
+  justify-content: center;
+}
+
+.shopify-planet-banner-v2-justify-start {
+  justify-content: flex-start;
+}
+
+.shopify-planet__unstyled-button {
+  background: none;
+  border: none;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.shopify-planet-close-popup {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+  z-index: 1;
+}
+
+.planet-popup-modal {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 9999;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    San Francisco,
+    Segoe UI,
+    Roboto,
+    Helvetica Neue,
+    sans-serif;
+}
+
+.shopify-planet-popup-content {
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.shopify-planet-popup-content-container {
+  position: relative;
+  height: 80vh;
+  border-radius: 15px;
+  background-color: #fff;
+  margin: 10vh auto;
+  width: 80%;
+  max-width: 800px;
+  overflow: hidden;
+}
+
+.shopify-planet-close-popup {
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #aaa;
+  text-decoration: none;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+
+h1.shopify-planet__heading {
+  font-size: 33px;
+}
+
+h2.shopify-planet__heading {
+  font-size: 15px;
+}
+
+.close-popup {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-popup:hover,
+.close-popup:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.shopify-planet__column {
+  display: flex;
+  flex-direction: column;
+}
+
+.shopify-planet__row {
+  display: flex;
+  flex-direction: row;
+}
+
+.shopify-planet__info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.shopify-planet-modal-font-xs {
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.shopify-planet-modal-font-small {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.shopify-planet-modal-font-large {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.shopify-planet-modal-font-xl {
+  font-size: 28px;
+  line-height: 30px;
+}
+
+.shopify-planet-strong-text {
+  font-weight: 600;
+}
+
+.shopify-planet-spaced-large {
+  padding: 4rem;
+}
+
+@media (max-width: 750px) {
+  .shopify-planet-spaced-large-mobile-reset {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.shopify-planet__margin-right {
+  margin-right: 1rem;
+}
+
+.shopify-planet__padding-b-reset {
+  padding-bottom: 0;
+}
+
+.shopify-planet__relative {
+  position: relative;
+}
+
+.shopify-planet__header-splash {
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+}
+
+.shopify-planet__flex-full {
+  flex: 1;
+}
+
+.shopify-planet__justify-end {
+  display: flex;
+  justify-content: end;
+}
+
+.shopify-planet__align-center {
+  align-items: center;
+}
+
+.shopify-planet-modal-info-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (min-width: 480px) {
+  .shopify-planet-modal-info-text-container {
+    min-width: 350px;
+  }
+}
+
+.shopify-planet-modal-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.shopify-planet-modal-info-image {
+  max-width: 70vw;
+  max-height: 58vw;
+}
+
+.shopify-planet-modal-half-width {
+  max-width: 50%;
+  min-width: 250px;
+}
+
+.shopify-planet__modal-hero {
+  background-image: url("/assets/bbada77541bd-planet-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4rem;
+}
+
+.shopify-planet__heading {
+  color: #ffffff;
+}

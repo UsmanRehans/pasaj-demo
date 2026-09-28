@@ -1,0 +1,141 @@
+{
+  "pages": [
+    "/",
+    "/blogs/the-parfum-counter",
+    "/blogs/the-parfum-counter/a-guide-to-fragrance",
+    "/blogs/the-parfum-counter/duro-by-nasomatto-fragrance-review-a-captivating-blend-of-charm-and-allure",
+    "/blogs/the-parfum-counter/five-fall-candles-to-create-a-welcoming-ambiance",
+    "/blogs/the-parfum-counter/five-fragrances-to-wear-late-in-the-summer",
+    "/blogs/the-parfum-counter/from-page-to-perfume-the-art-of-literary-scent",
+    "/blogs/the-parfum-counter/gloam-a-fragrance-of-transition-by-aesop",
+    "/blogs/the-parfum-counter/harmonious-perfume-deuts",
+    "/collections",
+    "/collections/all",
+    "/collections/body",
+    "/collections/curated-selection",
+    "/collections/face",
+    "/collections/gifts-for-him-1",
+    "/collections/hair",
+    "/collections/mothers-day",
+    "/collections/perfume-oil",
+    "/collections/perfumed-candles",
+    "/collections/skincare",
+    "/pages/about-new",
+    "/pages/ccpa-opt-out",
+    "/pages/climate-commitment",
+    "/pages/collaborations",
+    "/pages/contact-us",
+    "/pages/materials-in-progress",
+    "/pages/subscription_form",
+    "/policies/privacy-policy",
+    "/policies/refund-policy",
+    "/policies/terms-of-service",
+    "/products/ambra-body-oil",
+    "/products/conditioning-beard-oil",
+    "/products/figleef",
+    "/products/gardenya",
+    "/products/jasmine-natural-perfume-oil",
+    "/products/nerole",
+    "/products/nourishing-natural-face-oil",
+    "/products/oud",
+    "/products/regenerating-night-face-serum",
+    "/products/rose-ottoman-natural-perfume-oil",
+    "/products/scalp-hair-oil",
+    "/products/sendahl-body-oil",
+    "/products/tobacco-natural-perfume-oil",
+    "/products/wood-natural-perfume-oil",
+    "/search"
+  ],
+  "asset_count": 1558,
+  "failures": [],
+  "source_unavailable": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/terraaustralis_lumira_candle_300g_2048px_480x480.jpg?v=1695315172",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/santal26_lelabo_candle_245g_2048px_480x480.jpg?v=1695314911",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/wildbrooklynlavender_dsdurga_candle_200g_2048px_480x480.jpg?v=1695315313",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/en_passant_edp_frederic_malle_50ml_2048px_480x480.jpg?v=1691125383",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/kedu_edp_memo_2048px_480x480.jpg?v=1691124968",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/ernesto_trudon_candle_270g_2048px_480x480.jpg?v=1695313959",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/lombre_dans_leau_edp_diptyque_75ml_2048px_480x480.jpg?v=1691972670",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/cannelle_diptyque_candle_190g_2048px_480x480.jpg?v=1695313625",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/datura_noir_edp_serge_lutens_2048px_480x480.jpg?v=1691125668",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/hacivat_edp_nishane_2048px_480x480.jpg?v=1691125865",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/Ink_edp_perfumerh_100ml_2048px_480x480.jpg?v=1694032261",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/leaupapier_diptyque_edt_100ml_2048px_480x480.jpg?v=1694032331",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/bibliotheque_byredo_edp_100ml_2048px_480x480.jpg?v=1694032388",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/graphite_madetlen_edp_50ml_2048px_480x480.jpg?v=1694062849",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/cdg2_commedesgarcons_edp_100ml_2048px_480x480.jpg?v=1694032424",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/gloam_aesop_edp_50ml_2048px_480x480.jpg?v=1694667898",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/epic_amouage_edp_100ml_2048px_480x480.jpg?v=1697740421",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/aventus_creed_edp_100ml_2048px_480x480.jpg?v=1696903940",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/nuitdecellophane_sergelutens_edp_100ml_2048px_480x480.jpg?v=1696904175",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/uncutgem_fredericmalle_edp_100ml_2048px_480x480.jpg?v=1696904260",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/cuirderussie_chanel_edp_200ml_2048px_480x480.jpg?v=1696904067",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2990/0376/files/sellier_byredo_edp_50ml_2048px_480x480.jpg?v=1696904207",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

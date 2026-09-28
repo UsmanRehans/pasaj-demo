@@ -1,0 +1,157 @@
+/* modal amo warning */
+
+.sample-subscription--product-input > div {
+    width: 45%;
+}
+
+#bss-sub-modal {
+    opacity: 1;
+    z-index: 100;
+    position: absolute;
+    width: 100%;
+    min-width: 200px;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.sub-warning-payment-method {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: table;
+    z-index: 199999999;
+    /* position: fixed; */
+    outline: none !important;
+    -webkit-backface-visibility: hidden;
+    pointer-events: none;
+}
+
+.sub-modal-main {
+    position: relative;
+    z-index: 100;
+    opacity: 1;
+    color: black;
+    background-color: white;
+    max-width: 500px;
+    margin: 18px auto;
+    width: calc(100% - 36px);
+    pointer-events: auto;
+    border: solid white 1px;
+    transition: all 0.25s ease-in;
+    border-width: 0px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.sub-modal-main > div {
+    width: 100%;
+}
+
+.sub-warning-payment-method > div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.sub-modal-bg {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    overflow: hidden;
+    /* position: fixed; */
+    background: #000000;
+    opacity: 0.2;
+}
+
+body:has(#bss-sub-modal .active) {
+    overflow: hidden;
+}
+
+.sub-modal-main-title {
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.sub-modal-main-header {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-modal-main-body {
+    padding: 20px;
+    background: #ffffff;
+    color: #000000;
+    line-height: 25px;
+}
+
+.sub-modal-button-close {
+    font-style: normal;
+    margin-right: -5px;
+    font-size: 25px;
+    font-family: Arial, Baskerville, monospace;
+    overflow: visible;
+    background: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    display: block;
+    outline: none;
+    padding: 0 0 0 0px;
+    box-shadow: none;
+    opacity: 0.65;
+}
+
+.sub-modal-button-close {
+    cursor: pointer;
+}
+
+.sub-modal-main-add {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sub-modal-main-add button {
+    max-width: 200px;
+    height: 35px;
+    padding: 0 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.sub-modal-main-add button:hover {
+    background-color: #eeeeee;
+}
+
+.sub-modal-main-add button:active {
+    background-color: #cccccc;
+    border-color: #999999;
+    color: #333333;
+}
+
+.shopify_subscriptions_warning_banner_text {
+    font: inherit;
+    color: #303030;
+    font-size: 13px;
+    padding: 0px 10px;
+    margin: 0;
+}

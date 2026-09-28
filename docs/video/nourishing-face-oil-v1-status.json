@@ -1,0 +1,17 @@
+{
+  "job_id": "ac1d2fb8-1432-4abe-afa7-7b4693388bd1",
+  "provider": "Higgsfield",
+  "model": "minimax_h3",
+  "duration_requested_seconds": 6,
+  "resolution_requested": "2K",
+  "aspect_ratio": "16:9",
+  "estimated_credits": 12,
+  "last_confirmed_status": "completed",
+  "status_blocker": null,
+  "prompt_file": "docs/video/nourishing-face-oil-prompt.md",
+  "review": "Vita accepted sampled frames for website editorial use; fine label text not certified. Browser verified playback and pause. Native endpoint poses differ; looping is enabled, not claimed frame-perfect seamless.",
+  "deployment": "Published: https://pasaj-demo.vercel.app/products/nourishing-natural-face-oil#pasaj-product-film",
+  "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3H6Hr7CoWiEtNEdQwch7qoHMR6E/hf_20260921_160500_ac1d2fb8-1432-4abe-afa7-7b4693388bd1.mp4",
+  "actual_duration_seconds": 6.584,
+  "verification": "Build passed; desktop/mobile browser playback, muted looping, pause control, 16:9 frame and no horizontal overflow verified."
+}

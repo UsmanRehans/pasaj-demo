@@ -1,0 +1,48 @@
+/* Extends PASAJ's existing monochrome, square-cornered product surface. */
+#pasaj-product-film {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  background: #fff;
+  color: #000;
+}
+#pasaj-product-film [data-product-film] {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #fff;
+}
+#pasaj-product-film [data-film-toggle] {
+  position: absolute;
+  left: clamp(16px, 3vw, 40px);
+  bottom: clamp(16px, 3vw, 40px);
+  min-height: 44px;
+  padding: 10px 16px;
+  border: 1px solid #000;
+  border-radius: 0;
+  background: #fff;
+  color: #000;
+  font: inherit;
+  font-size: 15.75px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+#pasaj-product-film [data-film-toggle]:hover {
+  background: #000;
+  color: #fff;
+}
+#pasaj-product-film [data-film-toggle]:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 4px;
+  box-shadow: 0 0 0 4px #fff;
+}
+#pasaj-product-film [data-film-status] {
+  margin: 0;
+  padding: 16px;
+  font: inherit;
+  font-size: 15.75px;
+  line-height: 1.5;
+}
+#pasaj-product-film [hidden] { display: none; }

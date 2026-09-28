@@ -1,0 +1,6 @@
+.vercel/
+.capture/
+node_modules/
+.DS_Store
+.impeccable/cache/
+.vercel

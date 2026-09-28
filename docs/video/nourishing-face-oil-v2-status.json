@@ -1,0 +1,22 @@
+{
+  "job_id": "a6457433-1edb-4b3c-80a8-80f5fc3599c6",
+  "provider": "Higgsfield",
+  "model": "hf_mult_motion_control",
+  "resolution": "720p",
+  "use_free_gens": true,
+  "last_confirmed_status": "completed",
+  "prompt": "Create a photorealistic PASAJ skincare film using the supplied young adult model reference image and exact PASAJ bottle image. Use the driving video's identical straight-on seated posture, relaxed shoulders, torso crop, table height, fixed camera, measured reach and final hands-down resting pose. Preserve the generated model's young adult appearance (26), opaque ivory crew-neck long-sleeve top with chest fully covered, minimal pale table setting, broad soft neutral daylight and natural skin. Transfer the reference's single complete ritual arc, but adapt its cream-tube handling to the REAL screw-off glass pipette bottle; never squeeze the rigid bottle and never use cream. One continuous approximately18-second shot, no cuts, camera movement, sound, text or logo overlays. Only one bottle. Begin upright with hands relaxed on table. 0\u20133 seconds: left hand picks up/stabilizes black PASAJ bottle, right fingers turn the tall black cap counterclockwise and lift it with the attached slim glass pipette. 3\u20136 seconds: left hand sets open bottle upright on table, then presents the back of the left hand horizontally; right hand holds pipette above it and releases exactly two tiny drops of oil. 6\u201310 seconds: right hand returns the same glass pipette into the bottle; left hand steadies bottle while right hand screws the same cap clockwise completely closed. Set/release the closed bottle upright at its original center foreground position, label toward camera. 10\u201314 seconds: right fingertips make two gentle slow massage passes over back of left hand, then lightly smooth hands together once. Skin has only a subtle sheen, no white cream, no visible puddles. 14\u201318 seconds: stop rubbing entirely, lower BOTH hands onto table to either side of bottle and sit back into the original upright relaxed posture. Hold this resting end pose for at least two seconds. Complete exactly one open\u2013dispense\u2013close\u2013put-down\u2013massage\u2013rest sequence. No repeated dispensing, no endless rubbing. Preserve black bottle shape, small15ml scale, white label and PASAJ wordmark. Closure is black screw cap carrying a glass pipette; no pump spout, no detached second lid, no tube squeezing. Keep bottle rigid and physically present throughout; five fingers on each hand, no clipping or morphing. No Ormaie products, props or lettering. End in the same neutral posture as start for a calm loop.",
+  "references": [
+    "e43564ab-9bcb-4d59-9b89-ecdaf0a8d1db",
+    "f16a8227-8a13-4445-bdba-046f92ba0fae",
+    "b0de21cf-9153-4a45-ac97-6030db64e4da"
+  ],
+  "website_replacement": "Published and verified playing muted at1280x720,18.041667seconds.",
+  "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3H6Hr7CoWiEtNEdQwch7qoHMR6E/hf_20260921_162358_a6457433-1edb-4b3c-80a8-80f5fc3599c6.mp4",
+  "actual_duration_seconds": 18.041667,
+  "actual_resolution": "1280x720",
+  "review": "Vita accepted sampled sequence and denser opening frames. Parent verified browser playback. Pipette removed and returned; application then massage; hands rest approximately14\u201318seconds. Exactly two drops and seamless endpoints not verified.",
+  "deployment": "https://pasaj-demo.vercel.app/products/nourishing-natural-face-oil#pasaj-product-film",
+  "deployment_id": "dpl_EPVZjKbDn391zjLBVHLR4Cdzm2nX",
+  "prompt_file": "docs/video/nourishing-face-oil-v2.md"
+}
