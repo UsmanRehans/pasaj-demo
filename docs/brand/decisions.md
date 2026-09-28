@@ -1,5 +1,14 @@
 # Decisions and learning
 
+## September 28, 2026 — marketing team setup
+
+- Owner clarified that broader marketing work is intended later; current work is limited to **Meta Ads, Shopify and email**. Email platform and actual account connections are not yet established.
+
+- Owner requested reading `coreyhaines31/marketingskills` and duplicating its marketing structure for PASAJ, with findings and questions needed to tailor it properly.
+- Implementation: preserved the source library with revision/license/provenance; added a PASAJ marketing entry point, shared context and seven-group mapping to existing roles. Mapping is an implementation choice, not owner-confirmed staffing or channel strategy.
+- Owner selected **online sales and repeat purchases** as the first priority, targeting **USA skincare** with **$1,000 USD per month** for marketing. Current channels are Meta Ads, Shopify and email. Exact SKUs, budget allocation, email platform and numeric goals remain open. The team setup does not authorize campaigns or change the website replica brief.
+- Clarification: $1,000 USD/month is for Meta ad spend only. Creative and email tools are outside that budget. Email platform is Shopify's native email for now. See `docs/marketing/questions.md` for open questions.
+
 ## September 23, 2026 — ad preview brief
 
 - Owner approved merging the three ChatGPT campaign concepts into a finished social ad with mood audio. Campaign direction: **A quiet passage**. Seedance 2.0 Fast job `971a02bc-98ef-4fd9-ba34-bccd69c1916e` produced a 12-second 9:16 master joining Wood, Tobacco, and Rose Ottoman with native ambient audio. Cost preflight: 30 credits.

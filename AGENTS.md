@@ -5,3 +5,5 @@ Read `docs/team/brand.md`, `docs/team/workflow.md`, and relevant role contracts 
 The current brief is a faithful replica of https://www.pasajstudio.com/ using its original images, hosted on Vercel. Do not redesign without a new instruction. Preserve original source/photo provenance. Distinguish captured public commerce data from live Shopify operations.
 
 Use `.agents/skills/impeccable/SKILL.md` for interface work. Brand research lives in `docs/brand/README.md`. Record explicit owner feedback in `docs/brand/decisions.md`. Never import Candy Rama commercial facts or visual identity.
+
+For PASAJ marketing work, use `.agents/skills/pasaj-marketing-team/SKILL.md` and `docs/marketing/team.md`. Shared commercial context is `.agents/product-marketing.md`; apply PASAJ adaptations before using the preserved upstream playbooks.
